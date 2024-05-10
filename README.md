@@ -1,18 +1,6 @@
-# Whack-a-Mole!
+# Whack-a-Biden!
 
-A local game development studio has decided to create a new game that's based on Whack-A-Mole. If you've ever been to an arcade, you have probably seen or played Whack-A-Mole. It's a game in which a player uses a mallet to hit toy moles, which appear at random, back into their holes.
 
-The game designers have asked you to come up with a computer version of this game. They have provided some source code, but it still needs to be completed. You are encouraged to come up with an original visual design for this game or even change the theme. The game designers expect you to use the JavaScript, HTML, and CSS skills that you've learned in this program to give the game a unique feel.
-
-![whackamole](https://github.com/gabrielsanchez/erddiagram/blob/main/whackamole.gif?raw=true)
-
-## Steps to complete
-
-To complete this project, you must do the following:
-
-- Write code that passes all of the requirements in the project rubric, and submit your GitHub link to the Thinkful team.
-
-Go ahead and get started by following the installation steps below. You'll submit your project to the Thinkful team when you are finished.
 
 # Installation
 
